@@ -14,6 +14,7 @@ gem 'sass-rails', '>= 3.2'
 gem 'jquery-rails'
 
 gem 'devise'
+gem 'bootstrap_form'
 
 # Use sqlite3 as the database for Active Record
 gem "sqlite3", "~> 1.4"
